@@ -72,8 +72,7 @@ tk
 ├── talking_simulator.py      # Main program
 ├── idle.png                  # Idle image (transparent PNG)
 ├── talking.png               # Talking image (transparent PNG)
-├── requirements.txt          # Dependencies
-└── README.md                 # Documentation
+└── requirements.txt          # Dependencies
 ```
 
 ---
