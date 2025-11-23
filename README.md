@@ -141,4 +141,4 @@ Feel free to submit:
 
 ## ⭐ If You Like This Project…
 
-Please give it a **star** on GitHub — it helps a lot!
+Please give it a **star** on GitHub, it helps a lot!
