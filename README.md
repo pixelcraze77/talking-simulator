@@ -117,7 +117,7 @@ Right-click anywhere on the program window:
 
 Here is a picture of the program.
 
-![talkingsimulator](image.png)
+![talkingsimulator](talkingsimulator.png)
 
 ---
 
