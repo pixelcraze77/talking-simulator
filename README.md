@@ -23,11 +23,8 @@ This project uses **PyAudio**, **NumPy**, and **Pygame**.
 
 ## 📦 Installation
 
-### 1. Clone the repo
-```bash
-git clone https://github.com/YOUR_USERNAME/python-talking-simulator.git
-cd python-talking-simulator
-````
+### 1. Download the program
+- Go to the latest release of the program and download talking_simulator.py and requirements.txt in the same folder.
 
 ### 2. Install dependencies
 
